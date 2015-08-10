@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mFast optimizing /home/shigeru/test/scala-tutorial/target/scala-2.11/scara-js-tutorial-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Read info: 408380 us[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 232346 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 1108802 us[0m
+[0m[[0mdebug[0m] [0mLinker: cache stats: reused: 0 -- invalidated: 3241 -- trees read: 244[0m
+[0m[[0mdebug[0m] [0mLinker: 1778317 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 353813 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 723 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 1073331 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 1447516 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 84228 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 13249 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 98505 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 50[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 123[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 473416 us[0m
