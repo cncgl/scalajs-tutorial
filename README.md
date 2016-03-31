@@ -20,3 +20,5 @@ $ activator fastOptJS // or sbt fastOptJS
 $ ws // run web server
 ```
 
+## Demo
+visit demosite http://cncgl.github.io/scalajs-tutorial/
