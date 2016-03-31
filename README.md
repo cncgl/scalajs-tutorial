@@ -1,5 +1,5 @@
 # scalajs-tutorial
-Scala.js tutorial
+[Scala.js tutorial](https://www.scala-js.org/tutorial/basic/)
 
 ## Install
 Install local web server. For example local-web-server.
