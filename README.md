@@ -1,4 +1,8 @@
 # scalajs-tutorial
+
+[![Build Status](https://travis-ci.org/cncgl/scalajs-tutorial.svg?branch=master)](https://travis-ci.org/cncgl/scalajs-tutorial)
+
+
 [Scala.js tutorial](https://www.scala-js.org/tutorial/basic/)
 
 ## Install
