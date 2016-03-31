@@ -1,7 +1,7 @@
 # scalajs-tutorial
 
 [![Build Status](https://travis-ci.org/cncgl/scalajs-tutorial.svg?branch=master)](https://travis-ci.org/cncgl/scalajs-tutorial)
-
+[![Scala.js](https://www.scala-js.org/assets/badges/scalajs-0.6.8.svg)](https://www.scala-js.org)
 
 [Scala.js tutorial](https://www.scala-js.org/tutorial/basic/)
 
