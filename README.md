@@ -21,4 +21,4 @@ $ ws // run web server
 ```
 
 ## Demo
-visit demosite http://cncgl.github.io/scalajs-tutorial/
+visit demo site http://cncgl.github.io/scalajs-tutorial/
