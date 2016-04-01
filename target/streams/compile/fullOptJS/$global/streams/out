@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mFull optimizing /home/travis/build/cncgl/scalajs-tutorial/target/scala-2.11/scala-js-tutorial-opt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 348076 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 1265694 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 1622823 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 945344 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 4976 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 3866702 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 4882908 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 515183 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 85033 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 603067 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 532[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 2859[0m
+[0m[[0mdebug[0m] [0mEmitter (create Closure trees): 3483879 us[0m
+[0m[[0minfo[0m] [0mClosure: 0 error(s), 0 warning(s)[0m
+[0m[[0mdebug[0m] [0mClosure: Compiler pass: 20602238 us[0m
+[0m[[0mdebug[0m] [0mClosure: Write result: 1793337 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 0 -- invalidated: 9 -- trees read: 667[0m
